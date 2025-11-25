@@ -1,0 +1,29 @@
+
+# Core orchestration
+langgraph
+pydantic
+
+# LLM / tools ecosystem
+langchain
+langchain-community
+
+# Search
+ddgs
+
+# Monitoring
+langfuse
+
+# Config & logging
+python-dotenv
+
+# UI
+streamlit
+
+# DBT + MCP (model context protocol)
+dbt-core
+mcp
+
+# Optional utilities
+sqlalchemy
+sqlparse
+pytest
