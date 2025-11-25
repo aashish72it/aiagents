@@ -87,7 +87,9 @@ Harness for testing agent performance
 
 Refer to docs/architecture.md and docs/langgraph_flow.png for detailed architecture and flow diagrams.
 
+## Langgraph Flow
 
+!LangGraph Flow
 
 
 ## Project Structure
@@ -133,10 +135,3 @@ aiagents/
     ├── langgraph_flow.png
 
 <pre>
-
-
-## Langgraph Flow
-
-!LangGraph Flow
-
-
