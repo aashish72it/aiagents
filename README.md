@@ -89,7 +89,7 @@ Refer to docs/architecture.md and docs/langgraph_flow.png for detailed architect
 
 ## Langgraph Flow
 
-!LangGraph Flow
+![LangGraph Flow](./docs/langgraph_flow.png)
 
 
 ## Project Structure
